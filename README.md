@@ -1,6 +1,7 @@
 # unit-4-game
 
 Watch the demo.
+
 The player will have to guess the answer, just like in Word Guess. This time, though, the player will guess with numbers instead of letters. 
 Here's how the app works:
 
